@@ -1,6 +1,6 @@
 # ASCII Art Converter <br>
 
-This project converts uploaded picture into ASCII format. You can upload any image and it will be turned into a text that consists of characters.<br>
+This project converts uploaded picture into ASCII format. You can upload any imge and it will be turned into a text that consists of characters.<br>
 
 ### CodeUmoja
 
