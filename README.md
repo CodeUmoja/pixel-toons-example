@@ -1,12 +1,14 @@
-# Hello! <br>
-We are a team of first-year students of Kyiv Politechnic Institute: <br>
+# ASCII Art Converter <br>
 
-Myts Victoria, IM-12 <br>
-Petruk Daria, IM-12 <br>
-Borovkova Maria, IM-11 <br>
-Barytska Svitlana, IM-12 <br>
-Gorbunova Liudmyla, IM-12 
+This project converts uploaded picture into ASCII format. You can upload any imge and it will be turned into a text that consists of characters.<br>
 
-The theme of our course work is a <b>platform for creating and sharing pixelated gif-animations.</b>
+### CodeUmoja
 
-We <i>individually</i> work on different subprojects which will be merged together later.
+It is a subproject of CodeUmoja project. We will merge our subprojects in future.
+
+### How does it work?
+
+Firstly, the uploaded picture should be turned to grayscale. Than a character is chosen for every pixel depend on its brightness. 
+Also I added a possibility to choose a color and size for our art.
+
+![Снимок экрана (583)](https://user-images.githubusercontent.com/89994710/176068030-a46e9ed0-2fd4-4646-81fa-9811b2d15b88.png)
